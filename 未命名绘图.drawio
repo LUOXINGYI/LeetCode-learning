@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-11-05T06:21:16.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="UvTuIk7BA5qAsTgb2sHo" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-05T09:42:47.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="GvpMXhMrZrd8NIqg2Fnm" version="21.8.2" type="github">
   <diagram name="第 1 页" id="MlGkOc0rK8qGBOlLQdbf">
     <mxGraphModel dx="906" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5chOGvL5NwtoWEhrYjUD-4" target="5chOGvL5NwtoWEhrYjUD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-4" value="Python・Pytorch・YoloV5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-4" value="Python&lt;br&gt;Pytorch&lt;br&gt;YoloV5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="5chOGvL5NwtoWEhrYjUD-6" target="5chOGvL5NwtoWEhrYjUD-10">
@@ -31,22 +31,28 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5chOGvL5NwtoWEhrYjUD-8" target="5chOGvL5NwtoWEhrYjUD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-8" value="Java(SpringBoot・SpringCloud)&lt;br&gt;HTML&lt;br&gt;JavaScript(Vue)&lt;br&gt;TypeScript(Vite)&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360.75" y="200" width="112" height="112" as="geometry" />
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-8" value="Java(SpringBoot・SpringCloud)&lt;br&gt;HTML&lt;br&gt;JavaScript(Vue)&lt;br&gt;TypeScript(Vite・Vue)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="343.75" y="200" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="5chOGvL5NwtoWEhrYjUD-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="85" as="targetPoint" />
+            <mxPoint x="805" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-10" value="株式会社JCBC" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="31.75" width="106.5" height="106.5" as="geometry" />
+          <mxGeometry x="609.25" y="31.75" width="106.5" height="106.5" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5chOGvL5NwtoWEhrYjUD-12" target="5chOGvL5NwtoWEhrYjUD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-12" value="Java(SpringBoot)&lt;br&gt;HTML&lt;br&gt;JavaScript(React)&lt;br&gt;TypeScript(Vite)&lt;br&gt;Python&lt;br&gt;Golang&lt;br&gt;AWSサービス&lt;br&gt;Jenkins&lt;br&gt;Docker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="513.25" y="200" width="180" height="180" as="geometry" />
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-12" value="Java(SpringBoot)&lt;br&gt;HTML&lt;br&gt;JavaScript(React)&lt;br&gt;TypeScript(Vite・React)&lt;br&gt;Python&lt;br&gt;Golang&lt;br&gt;AWSサービス&lt;br&gt;Jenkins&lt;br&gt;Docker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="576" y="200" width="173" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-15" value="コロナが終わり、部門がなくなった" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489.75" y="71.25" width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-16" value="感情を共有できる仲間が欲しい" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729" y="69" width="100" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
