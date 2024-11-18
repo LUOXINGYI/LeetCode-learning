@@ -19,8 +19,8 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="5chOGvL5NwtoWEhrYjUD-4" target="5chOGvL5NwtoWEhrYjUD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-4" value="Python&lt;br&gt;Pytorch&lt;br&gt;YoloV5&lt;div&gt;arduino uno&lt;/div&gt;&lt;div&gt;m5stack&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="190" y="200" width="90" height="90" as="geometry" />
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-4" value="Python&lt;br&gt;Pytorch&lt;br&gt;YoloV5&lt;div&gt;arduino uno&lt;/div&gt;&lt;div&gt;m5stack&lt;/div&gt;&lt;div&gt;AutoDesk&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="181" y="200" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="1" source="5chOGvL5NwtoWEhrYjUD-6" target="5chOGvL5NwtoWEhrYjUD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
