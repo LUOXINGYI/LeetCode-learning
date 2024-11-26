@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="第 1 页" id="MlGkOc0rK8qGBOlLQdbf">
-    <mxGraphModel dx="1009" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="1072" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="5chOGvL5NwtoWEhrYjUD-8" target="5chOGvL5NwtoWEhrYjUD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-8" value="Java(SpringBoot・SpringCloud)&lt;br&gt;HTML&lt;br&gt;JavaScript(Vue)&lt;br&gt;TypeScript(Vite・Vue)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-8" value="Java(SpringBoot・SpringCloud)&lt;br&gt;HTML&lt;br&gt;JavaScript(Vue)&lt;div&gt;TypeScript(Vite・Vue)&lt;/div&gt;&lt;div&gt;&lt;/div&gt;css" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="343.75" y="200" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="5chOGvL5NwtoWEhrYjUD-10" edge="1">
@@ -45,7 +45,7 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="5chOGvL5NwtoWEhrYjUD-12" target="5chOGvL5NwtoWEhrYjUD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5chOGvL5NwtoWEhrYjUD-12" value="Java(SpringBoot)&lt;br&gt;HTML&lt;br&gt;JavaScript(React)&lt;br&gt;TypeScript(Vite・React)&lt;br&gt;Python&lt;br&gt;Golang&lt;br&gt;AWSサービス&lt;br&gt;Jenkins&lt;br&gt;Docker" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="5chOGvL5NwtoWEhrYjUD-12" value="Java(SpringBoot)&lt;br&gt;HTML&lt;br&gt;JavaScript(React)&lt;br&gt;TypeScript(Vite・React)&lt;div&gt;css&lt;br&gt;Python&lt;br&gt;Golang&lt;br&gt;AWSサービス&lt;br&gt;Jenkins&lt;br&gt;Docker&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="576" y="200" width="173" height="173" as="geometry" />
         </mxCell>
         <mxCell id="5chOGvL5NwtoWEhrYjUD-15" value="コロナが終わり、部門がなくなった" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
