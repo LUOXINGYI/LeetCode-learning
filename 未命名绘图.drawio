@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="MlGkOc0rK8qGBOlLQdbf">
-    <mxGraphModel dx="1293" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="1477" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,8 +54,14 @@
         <mxCell id="5chOGvL5NwtoWEhrYjUD-16" value="感情を共有できる仲間が欲しい" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="729" y="69" width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="Kiff7DWCnq8ESn9eZGq2-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debuggercafe.com/wp-content/uploads/2021/03/Object-Detection-using-PyTorch-YOLOv5-e1617643548833.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-56" y="373" width="446.29" height="251.26" as="geometry" />
+        <mxCell id="Kiff7DWCnq8ESn9eZGq2-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debuggercafe.com/wp-content/uploads/2021/03/Object-Detection-using-PyTorch-YOLOv5-e1617643548833.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-207" y="409" width="446.29" height="251.26" as="geometry" />
+        </mxCell>
+        <mxCell id="ItO_q11XsYsUchz4Ii-x-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://m.media-amazon.com/images/I/71jLqu+Q5LL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="274.61" y="425" width="284.28" height="284.28" as="geometry" />
+        </mxCell>
+        <mxCell id="ItO_q11XsYsUchz4Ii-x-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="723" width="362" height="266.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
